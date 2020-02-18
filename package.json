@@ -1,0 +1,23 @@
+{
+  "name": "bin-2-dec",
+  "version": "1.0.0",
+  "description": "Binary to decimal converter",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscoescastro/bin-2-dec.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/franciscoescastro/bin-2-dec/issues"
+  },
+  "homepage": "https://github.com/franciscoescastro/bin-2-dec#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
